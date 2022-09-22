@@ -1,4 +1,4 @@
-# assignment-maqe
+# Assignment-maqe
 
 ## Set up to run tests (based on ubuntu os)
 1. Install chromedriver based on your chrome version
