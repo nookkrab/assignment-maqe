@@ -7,7 +7,7 @@
 sudo apt update
 sudo apt -y install pipenv
 ```
-3. Clone this repository
+3. Clone this repository "git@github.com:nookkrab/assignment-maqe.git"
 4. Access to repository
 5. Install virtual environment
 ```bash
